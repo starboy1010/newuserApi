@@ -1,22 +1,25 @@
 {
     "User" : [
     {
-        "name": "Pratyush Sharma",
+        "name": "Pratyush",
         "id":1,
         "Email": "Abcd@gmail.com",
-        "Phone": 5268956324
+        "Phone": 5268956324,
+        "password": "Hello@123"
     }
     ,{
         "name": "Rutwik",
         "id":2,
         "Email": "xyz@gmail.com",
-        "Phone": 749652348
+        "Phone": 749652348,
+        "password": "Bye@456"
     }
     ,{
         "name": "Yogita",
         "id":3,
         "Email": "lmn@gmail.com",
-        "Phone": 7485932458
+        "Phone": 7485932458,
+        "password": "Good@678"
     }
 
   ]
