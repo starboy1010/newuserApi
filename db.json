@@ -1,0 +1,23 @@
+{
+    "User" : [
+    {
+        "name": "Pratyush Sharma",
+        "id":1,
+        "Email": "Abcd@gmail.com",
+        "Phone": 5268956324
+    }
+    ,{
+        "name": "Rutwik",
+        "id":2,
+        "Email": "xyz@gmail.com",
+        "Phone": 749652348
+    }
+    ,{
+        "name": "Yogita",
+        "id":3,
+        "Email": "lmn@gmail.com",
+        "Phone": 7485932458
+    }
+
+  ]
+}
